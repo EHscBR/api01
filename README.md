@@ -8,3 +8,6 @@ projeto-produtos/
 ├── app.js
 ├── package.json
 └── README.md
+
+
+GET /produtos, GET /produtos/categoria/informatica, GET /produtos/1, POST, PUT e DELETE
